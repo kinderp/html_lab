@@ -1,0 +1,7 @@
+We've got some cool CSS and we'd like to make it available to every page on our site. It doesn't make sense to copy that CSS <style> block to every page, because that means we'll have to update all of them individually whenever we make a change. Instead, let's move our CSS to a new file and link that to each page so our CSS is all in one spot.
+
+1. Move all of the CSS in prependers-band.html over to a new file we've created in the tab called main.css.
+
+2. Replace the style tag in prependers-band.html with a link tag that loads main.css.
+
+3. Now copy that link tag to the header of bands.html so it can also enjoy the CSS rules in main.css.

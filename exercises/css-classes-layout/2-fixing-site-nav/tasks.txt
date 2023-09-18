@@ -1,0 +1,11 @@
+We can use class attributes applied to HTML tags so they can be specifically targeted in CSS. Let's organize our HTML and CSS styles with some classes.
+
+1. The site navigation in the prependers-band.html file is a perfect candidate for adding a class. Add a class attribute to the unordered list, and set the name of it to nav.
+
+2. Switch to the main.css file, and set the padding for the .nav selector to 0 in order to remove the space that's appearing before the site navigation.
+
+3. Set the .nav li items to display horizontally with inline instead of their default block-level appearance.
+
+4. The .nav li items are appearing a little too close together. Add 20px of padding-right space so they have some room to breathe.
+
+5. That right padding is being applied to every navigation list item - even the last one on the right, which doesn't need any padding. Use the :last-child pseudo-selector to set the padding-right value to 0 to remove the extra space on the last navigation list item.

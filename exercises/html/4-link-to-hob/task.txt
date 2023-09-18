@@ -1,0 +1,4 @@
+Regular Expressionists are playing at the House of Blues, so we should link to that web page so our visitors can order tickets.
+
+1. In regular-band.html, create a link to https://www.houseofblues.com/ using the "House of Blues" venue name as the link text. This link should not open in a new tab when clicked.
+

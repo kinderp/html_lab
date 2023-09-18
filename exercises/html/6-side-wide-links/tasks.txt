@@ -1,0 +1,6 @@
+Our site navigation works great on the Regular Expressionists page, but we should copy it to every page in our site.
+
+1. Copy the site navigation block of HTML into about.html below the Open Source Records label name.
+2. Copy the site navigation block of HTML into bands.html below the Open Source Records label name.
+3. Copy the site navigation block of HTML into contact.html below the Open Source Records label name.
+4. Copy the site navigation block of HTML into prependers-band.html below the Open Source Records label name.

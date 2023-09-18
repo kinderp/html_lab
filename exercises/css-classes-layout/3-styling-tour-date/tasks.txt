@@ -1,0 +1,9 @@
+Back in regular-band.html, we've added that nav class to the site navigation. The tour dates on this page are another great spot to use classes. We don't need to add a class to the <ul> that contains the tour dates, but we do need a way to access the date/time paragraph tag and the concert location paragraph tag separately.
+
+1. In the regular-band.html file, add a class of day-time to each paragraph tag that contains a date and time.
+
+2. Add a class of concert-location to each paragraph tag that contains a location.
+
+3. Use class selectors to change the .day-time class color to #444444 and change the .concert-location class color to #888888.
+
+4. Let's change the text so that it stands out a little better too. For both the .day-time and the .concert-location, add a text-decoration of underline.

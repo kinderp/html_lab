@@ -1,0 +1,6 @@
+We just added the band members and song titles to the page. Decide the best tags to mark up that content, and don't forget to nest and indent tags when necessary!
+
+1. Mark up the list of band members using the appropriate tag(s).
+
+2. Mark up the song list for the album Opacity Zero using the appropriate tag(s).
+

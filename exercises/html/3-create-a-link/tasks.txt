@@ -1,0 +1,6 @@
+Take a look at the folder structure and use it to complete the following tasks.
+
+1. In restaurants.html, create a link to melt-house.html with the text "Melt House Restaurant" that opens in the same browser window/tab.
+
+2. On another line, create a link to maps.google.com with the link text "Map to Melt House" that opens up in a new tab/window.
+

@@ -1,0 +1,15 @@
+We've gone ahead and reset all of the styles on regular-band.html, and our job is to get the layout back to a good place!
+
+1. In the regular-band.html, adjust the h1 tag so there's 15px of margin-bottom space between the Open Source Records header and the site navigation.
+
+2. Adjust the h2 tag so there's 15px of margin-top space between the band's name and site navigation.
+
+3. Adjust the h3 tag so there's 15px of margin-top space above the heading text.
+
+4. Adjust the h3 tag again so there's a border-bottom with a value of 1px solid #cccccc.
+
+5. Adjust the ul tag so there's 30px of padding-left and the unordered list item bullets will be visible.
+
+6. Adjust the li tag so there's 5px of margin-bottom and the text in the list items won't be so close together.
+
+7. Finally, adjust the body tag so there's 15px of padding to create space between the edge of the window and all of the other content on the page.

@@ -1,0 +1,14 @@
+We've been hired to create a home page for Open Source Records. They've only got two bands on their roster, but they are growing fast, so let's get started!
+
+
+1. On this page, the record label's name - Open Source Records - is the most important content. Let's mark it up with the appropriate tag.
+
+2. The name of the band - The Prependers - is the next most important content. Let's mark it up with the appropriate tag.
+
+3. The section titles - Bio, Members, Albums and Tour Dates - are of lesser importance than the name of the band, so let's mark those up with the appropriate tags.
+
+4. Mark the band's album names - Top, Right, Bottom, Left, and Opacity Zero - each with the h4 tag.
+
+5. Mark up the two paragraphs of the band's biography with the appropriate tags.
+
+6. Mark up the band's tour message paragraph with the appropriate tag.

@@ -1,0 +1,8 @@
+We've copied the styles you wrote for the Regular Expressionists page over to prependers-band.html, but some issues have popped up. Go through each of these tasks and fix up some of those issues.
+
+1. In the prependers-band.html file the Bio section the page contains two paragraphs, but they are appearing too close together. Adjust the p tag so there's 10px of margin-bottom space for the bottom of the any paragraphs.
+
+2. In the last challenge, we fixed the ul styles so we could read the bullet points, but that page didn't have any ol tags. Adjust the ol tag so there's 20px of padding-left space and the album track numbers should line up with the album name headings.
+
+3. Our song list items look good now, but there's another problem - we didn't have album names on the page in the last challenge, so our album titles here don't have the correct spacing. Adjust the h4 tag so there's 10px of margin space above and below the album name headings.
+

@@ -1,0 +1,11 @@
+It would be great to style the page header differently from the rest of the content, so let's add some divisions and classes to help us do that.
+
+1. In the prependers-band.html file, wrap the Open Source Records header and the site navigation inside of a div container, and give that tag a class of header.
+
+2. Perfect! Now wrap all of remaining content in the page body inside another div container, and give that tag a class of content-section.
+
+3. Now that we have the divisions in place, let's switch over to the main.css file. Before we had separate divisions, we added 15px of padding to the entire body. Now, we want our divisions to have better control over the page, so set the padding for the body selector to 0. Alternatively, since the padding is already set by the CSS declaration at the very top, we could remove the body selector from the CSS and that works too.
+
+4. Now we can add 15px of padding back to all sides, but this time add it to the header and content-section divisions.
+
+5. For this site, our designers have asked us to make sure the content-section doesn't get bigger than 450px, so use that number to set the content section's width.

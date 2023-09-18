@@ -1,0 +1,9 @@
+Now that we know how to create hex colors we can convert the colors on our page to hex.
+
+1. In the prependers-band.html file, set the color of the h1 and h2 text to the hexadecimal version of black.
+
+2. Set the h3 tags to a slightly lighter version of black, and the h4 tags to an even lighter version than that.
+
+3. Of the hex colors #112E10, #11EE00, #444444, and #FF0000, set the color for all paragraph text to the one closest to a darkish gray color.
+
+4. Set the color for all anchor tag text on the page to a dark red hexadecimal color.

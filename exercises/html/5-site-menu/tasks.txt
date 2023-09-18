@@ -1,0 +1,11 @@
+There's more than one page on this website, so let's create a small menu to link to the other pages.
+
+1. In regular-band.html, create an unordered list with three list items: About, Bands, and Contact that is in between the main site name and the band's name.
+
+2. Make the text About into a link to the page about.html.
+
+3. Make the text Bands into a link to the page bands.html.
+
+4. Make the text Contact into a link to the page contact.html
+
+5. Create about.html, bands.html and contact.html with body head and h1 tags

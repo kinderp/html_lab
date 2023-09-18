@@ -1,0 +1,12 @@
+We've done a good job structuring the content of our page with the right HTML tags, but the way those tags look is pretty boring right now. Let's start fixing that!
+
+1. In prependers-band.html, write a CSS rule that selects every a tag and removes the underline from the text using the text-decoration property
+
+2. Write a CSS rule that selects every p tag and changes the text color to dimgray.
+
+3. Write a CSS rule that selects only li tags that are children of an ordered list and make their font-size 20px.
+
+4. Write a CSS rule that selects the h2 tag and sets the font-size to 28px.
+
+5. Write a CSS rule that selects all of the h3 tags and sets their font-size to 26px and their color to darkblue.
+
